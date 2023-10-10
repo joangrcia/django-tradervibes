@@ -1,0 +1,5 @@
+---
+deployment:
+tasks:
+- export DEPLOYPATH=/home/n1566869/django-tradervibes
+- /bin/cp -r * $DEPLOYPATH
